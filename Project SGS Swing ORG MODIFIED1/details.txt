@@ -1,0 +1,12 @@
+FACULTY OF ENGINEERING & TECHNOLOGY(CO-ED)
+B.TECH- Artificial Intelligence(AI) And Data Science
+Mathematics 
+Logic Design And Computer Organistaion
+Data Structures Using C
+Fundamentals Of Operating System
+Java Programming
+Project - III
+
+Name : Devaratha
+Fathers Name : Dhara Raisaar
+USN : SG23AID22
